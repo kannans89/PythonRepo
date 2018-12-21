@@ -1,9 +1,9 @@
 Course Contents
 
-#Python CrashCourse
+# Python CrashCourse
 
-#Python for DataAnalysis Numpy
+# Python for DataAnalysis Numpy
 
-#Python for DataAnalysis Pandas
+# Python for DataAnalysis Pandas
 
-#Python for Data Visualization Matplotlib
+# Python for Data Visualization Matplotlib
